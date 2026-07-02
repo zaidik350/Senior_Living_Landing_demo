@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Carried over from the Stitch export */
+.glass-card {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border: 1px solid #E2E8F0;
+}
+
+.soft-shadow {
+  box-shadow: 0px 4px 12px rgba(26, 46, 68, 0.05);
+}
