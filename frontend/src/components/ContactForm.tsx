@@ -21,7 +21,7 @@ const careTypeOptions: Array<LeadForm['careType']> = [
 ]
 
 const moveInTimelineOptions: Array<NonNullable<LeadForm['moveInTimeline']>> = [
-  'Immediate',
+  'Immediately',
   'Within 30 Days',
   '1-3 Months',
   'Researching'

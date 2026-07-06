@@ -17,7 +17,8 @@ const WELCOME_MESSAGE =
 const QUICK_REPLIES = [
   'What care options do you offer?',
   'How do I schedule a tour?',
-  'What are your visiting hours?'
+  'What are your visiting hours?',
+  'Tell me about your Pricing!'
 ]
 
 const CHIP_CLASS =
